@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "1025702877756",
+    "firebase_url": "https://testandroid-5ae64.firebaseio.com",
+    "project_id": "testandroid-5ae64",
+    "storage_bucket": "testandroid-5ae64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025702877756:android:71246e9f97e2e4df",
+        "android_client_info": {
+          "package_name": "com.isofh.testfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025702877756-9o65st4hrgc0mv4c5lv5fji1h9flf5i9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isofh.testfirestore",
+            "certificate_hash": "0a32ab23bc044484d84d12122a6bbbde0b552ff6"
+          }
+        },
+        {
+          "client_id": "1025702877756-rdgbo8fu7ncallavovktld2e1dft0ho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRSUtXsQOE0smPbrmengzwpvnBIbWigA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025702877756-rdgbo8fu7ncallavovktld2e1dft0ho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025702877756:android:93743764c65abdcf",
+        "android_client_info": {
+          "package_name": "com.isofh.testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025702877756-rdgbo8fu7ncallavovktld2e1dft0ho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRSUtXsQOE0smPbrmengzwpvnBIbWigA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025702877756:android:bd648167e34e26b6",
+        "android_client_info": {
+          "package_name": "com.ldt.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025702877756-rdgbo8fu7ncallavovktld2e1dft0ho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRSUtXsQOE0smPbrmengzwpvnBIbWigA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025702877756:android:403c9f90cc6c7125",
+        "android_client_info": {
+          "package_name": "com.ldt.testproject.new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025702877756-rdgbo8fu7ncallavovktld2e1dft0ho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdRSUtXsQOE0smPbrmengzwpvnBIbWigA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
